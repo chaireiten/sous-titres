@@ -38,7 +38,7 @@ http://www.iana.org/assignments/language-subtag-registry/language-subtag-registr
  
 Les langues Shimaore et Kibushi sont parfaitement définies dans les codifications internationales.
 
-En ce qui concerne le Shimaore et le Kibushi, ces langues peuvent être écrite en caractères latins ou en caractères arabes.
+En ce qui concerne le Shimaore et le Kibushi, ces langues peuvent être écrites en caractères latins ou en caractères arabes.
 
 |                    | Shimaore                                                                                        | Kibushi                                                                                         |
 |--------------------|-------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
@@ -67,9 +67,11 @@ Youtube et Vimeo ne nous permettent pas d'indiquer des sous-titres dans d'autres
 Youtube et Vimeo n'ont pas pris en compte le Shimaore et le Kibushi dans leurs dispositifs de traduction et / ou de gestion des sous-titres.
 
 Translator Toolkit de Google
+
 https://translate.google.com/toolkit/docupload?hl=fr
 
 Langues des sous titres supportées par Viméo
+
 https://vimeo.com/help/faq/managing-your-videos/captions-and-subtitles#what-languages-does-vimeo-support-for-captions-and-subtitles
 
 Il n'est pas possible de sous titrer les videos dans ces langues sur les 2 plateformes
