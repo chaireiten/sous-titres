@@ -38,7 +38,7 @@ http://www.iana.org/assignments/language-subtag-registry/language-subtag-registr
  
 Les langues Shimaore et Kibushi sont parfaitement définies dans les codifications internationales.
 
-En ce qui concerne le Shimaore et le Kibushi, ces langues peuvent être écrite en caractères latins ou en caractère arabes.
+En ce qui concerne le Shimaore et le Kibushi, ces langues peuvent être écrite en caractères latins ou en caractères arabes.
 
 |                    | Shimaore                                                                                        | Kibushi                                                                                         |
 |--------------------|-------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
