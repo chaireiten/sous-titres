@@ -64,9 +64,16 @@ http://www.lauret.info/subtitles/index.html
 
 Youtube et Vimeo ne nous permettent pas d'indiquer des sous-titres dans d'autres langues que celles qui sont prévues par leur système respectif (~300 langues pour Youtube et ~80 langues pour Vimeo)
 
+Youtube et Vimeo n'ont pas pris en compte le Shimaore et le Kibushi dans leurs dispositifs de traduction et / ou de gestion des sous-titres.
 
+Translator Toolkit de Google
+https://translate.google.com/toolkit/docupload?hl=fr
 
+Langues des sous titres supportées par Viméo
+https://vimeo.com/help/faq/managing-your-videos/captions-and-subtitles#what-languages-does-vimeo-support-for-captions-and-subtitles
 
+Il n'est pas possible de sous titrer les videos dans ces langues sur les 2 plateformes
+ 
 Youtube : https://www.youtube.com/watch?v=4FVnb0OknVI
 
 Vimeo : https://vimeo.com/191857029
