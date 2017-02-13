@@ -1,0 +1,38 @@
+<head>
+  <meta charset="utf-8" />
+  <title>Video.js Text Descriptions, Chapters &amp; Captions Example</title>
+  <link href="http://vjs.zencdn.net/5.14.1/video-js.css" rel="stylesheet" type="text/css">
+  <script src="http://vjs.zencdn.net/5.14.1/video.js"></script>
+  <!-- Set the location of the flash SWF -->
+  <script>
+    videojs.setGlobalOptions({
+      flash: {
+        swf: 'flash/video-js.swf'
+      }
+    });
+  </script>
+
+</head>
+<body>
+  <p style="background-color:#eee; border: 1px solid #777; padding: 10px; font-size: .8em; line-height: 1.5em; font-family: Verdana, sans-serif;">This page demonstrates a text descriptions track (intended primarily for blind and visually impaired consumers of visual media)</p>
+
+  <!-- NOTE: we have to disable native Text Track support for the HTML5 tech,
+             since even HTML5 video players with native Text Track support
+             don't currently support 'description' text tracks in any
+             useful way! -->
+  <video id="example_video_1" class="video-js vjs-default-skin" controls preload="none" width="640" height="360" poster="img/vlcsnap.png"
+      data-setup='{ "html5" : { "nativeTextTracks" : false } }'>
+    <source src="http://www.lauret.info/subtitles/video/itw_mayotte_taambati.mp4" type="video/mp4">
+    <source src="http://www.lauret.info/subtitles/video/itw_mayotte_taambati.webm" type="video/webm">
+    <source src="http://www.lauret.info/subtitles/video/itw_mayotte_taambati.ogv" type="video/ogg">
+
+    <track kind="captions" src="lang/itw_mayotte_taambati_fr.vtt" srclang="fr" label="Français" default></track><!-- Tracks need an ending tag thanks to IE9 -->
+    <track kind="captions" src="lang/itw_mayotte_taambati_en.vtt" srclang="en" label="English"></track>
+    <track kind="captions" src="lang/itw_mayotte_taambati_ar.vtt" srclang="ar" label="العربية"></track>
+    <track kind="captions" src="lang/itw_mayotte_taambati_swb.vtt" srclang="swb" label="Shimaoré"></track>
+    <track kind="captions" src="lang/itw_mayotte_taambati_buc.vtt" srclang="buc" label="Kibushi"></track>
+    <track kind="captions" src="lang/itw_mayotte_taambati_sw.vtt" srclang="sw" label="Swahili"></track>
+
+    <p class="vjs-no-js">To view this video please enable JavaScript, and consider upgrading to a web browser that <a href="http://videojs.com/html5-video-support/" target="_blank">supports HTML5 video</a></p>
+  </video>
+</body>
