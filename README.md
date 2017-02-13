@@ -40,38 +40,15 @@ Les langues Shimaore et Kibushi sont parfaitement définies dans les codificatio
 
 En ce qui concerne le Shimaore et le Kibushi, ces langues peuvent être écrite en caractères latins ou en caractère arabes.
 
-
-|                   | Shimaore                                                                                        | Kibushi                                                                                         |
-|-------------------|-------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
-| Codification IANA | %%Type: language  Subtag: swb  Description: Maore Comorian  Added: 2009-07-29  %%                  | %%  Type:  language  Subtag: buc  Description: Bushi  Added: 2009-07-29  %%                           |
-| Graphies          | Latines, Arabe                                                                                  | Latines, Arabe                                                                                  |
-| Ref               | http://www-01.sil.org/iso639-3/documentation.asp?id=swb https://www.ethnologue.com/language/swb | http://www-01.sil.org/iso639-3/documentation.asp?id=buc https://www.ethnologue.com/language/buc |
-| Wikipedia         | https://fr.wikipedia.org/wiki/Mahorais                                                          | https://www.ethnologue.com/language/buc                                                         |
-
-Pour le Shimaore
-%%  
-Type: language  
-Subtag: swb  
-Description: Maore Comorian  
-Added: 2009-07-29  
-%%  
-
-http://www-01.sil.org/iso639-3/documentation.asp?id=swb
-https://www.ethnologue.com/language/swb
-https://fr.wikipedia.org/wiki/Mahorais
-
-et pour le Kibushi
-
-%%
-Type: language
-Subtag: buc
-Description: Bushi
-Added: 2009-07-29
-%%
-
-http://www-01.sil.org/iso639-3/documentation.asp?id=buc
-https://www.ethnologue.com/language/buc
-https://fr.wikipedia.org/wiki/Shibushi
+|                    | Shimaore                                                                                        | Kibushi                                                                                         |
+|--------------------|-------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
+| IANA : Type        | language                                                                                        | language                                                                                        |
+| IANA : Subtag      | swb                                                                                             | buc                                                                                             |
+| IANA : Description | Maore Comorian                                                                                  | Bushi                                                                                           |
+| IANA : Added       | 2009-07-29                                                                                      | 2009-07-29                                                                                      |
+| Graphies           | Latines, Arabes                                                                                 | Latines, Arabes                                                                                 |
+| Ref                | http://www-01.sil.org/iso639-3/documentation.asp?id=swb https://www.ethnologue.com/language/swb | http://www-01.sil.org/iso639-3/documentation.asp?id=buc https://www.ethnologue.com/language/buc |
+| Wikipedia          | https://fr.wikipedia.org/wiki/Mahorais https://en.wikipedia.org/wiki/Maore_dialect              | https://www.ethnologue.com/language/buc https://en.wikipedia.org/wiki/Bushi_language            |
 
 
 ### Codage des sous-titres en Shimaoré et en Kibushi
