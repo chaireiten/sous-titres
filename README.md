@@ -36,7 +36,7 @@ https://www.brightcove.com/fr/
 Pour la codification des langages, la norme **ISO 639** et le registre **IANA** normalisent et référencent plus de 7000 langues
 
 
-http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry 
+http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
 
 
 ### Exemple de Mayotte
@@ -53,7 +53,7 @@ En ce qui concerne le Shimaore et le Kibushi, ces langues peuvent être écrites
 | Statut     | Active                                                                                          | Active                                                                                          |
 | Graphies   | Latines, Arabes                                                                                 | Latines, Arabes                                                                                 |
 | Ref        | http://www-01.sil.org/iso639-3/documentation.asp?id=swb https://www.ethnologue.com/language/swb | http://www-01.sil.org/iso639-3/documentation.asp?id=buc https://www.ethnologue.com/language/buc |
-| Wikipedia  | https://fr.wikipedia.org/wiki/Mahorais https://en.wikipedia.org/wiki/Maore_dialect              | https://www.ethnologue.com/language/buc https://en.wikipedia.org/wiki/Bushi_language            |
+| Wikipedia  | https://fr.wikipedia.org/wiki/Mahorais https://en.wikipedia.org/wiki/Maore_dialect              | https://fr.wikipedia.org/wiki/Shibushi https://en.wikipedia.org/wiki/Bushi_language            |
 
 
 ### Codage des sous-titres en Shimaoré et en Kibushi
