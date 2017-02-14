@@ -36,7 +36,7 @@ https://www.brightcove.com/fr/
 Pour la codification des langages, la norme **ISO 639** et le registre **IANA** normalisent et référencent plus de 7000 langues
 
 
-http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry afin d'utiliser les bons codes.
+http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry 
 
 
 ### Exemple de Mayotte
