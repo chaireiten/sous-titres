@@ -14,17 +14,15 @@
 
 </head>
 <body>
-  <p style="background-color:#eee; border: 1px solid #777; padding: 10px; font-size: .8em; line-height: 1.5em; font-family: Verdana, sans-serif;">This page demonstrates a text descriptions track (intended primarily for blind and visually impaired consumers of visual media)</p>
-
   <!-- NOTE: we have to disable native Text Track support for the HTML5 tech,
              since even HTML5 video players with native Text Track support
              don't currently support 'description' text tracks in any
              useful way! -->
   <video id="example_video_1" class="video-js vjs-default-skin" controls preload="none" width="640" height="360" poster="img/vlcsnap.png"
       data-setup='{ "html5" : { "nativeTextTracks" : false } }'>
-    <source src="http://www.lauret.info/subtitles/video/itw_mayotte_taambati.mp4" type="video/mp4">
-    <source src="http://www.lauret.info/subtitles/video/itw_mayotte_taambati.webm" type="video/webm">
-    <source src="http://www.lauret.info/subtitles/video/itw_mayotte_taambati.ogv" type="video/ogg">
+    <source src="video/itw_mayotte_taambati.mp4" type="video/mp4">
+    <source src="video/itw_mayotte_taambati.webm" type="video/webm">
+    <source src="video/itw_mayotte_taambati.ogv" type="video/ogg">
 
     <track kind="captions" src="lang/itw_mayotte_taambati_fr.vtt" srclang="fr" label="Français" default></track><!-- Tracks need an ending tag thanks to IE9 -->
     <track kind="captions" src="lang/itw_mayotte_taambati_en.vtt" srclang="en" label="English"></track>
