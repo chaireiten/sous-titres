@@ -62,7 +62,7 @@ Nous avons pu déployer des sous-titres en Shimaore et en Kibushi grâce à l'ai
 
 Les résultats sont visibles ici
 
-http://www.lauret.info/subtitles/index.html
+http://www.7portes.net/soustitres/debaa/index.html
 
 
 ### Problématique de YouTube et de Vimeo
