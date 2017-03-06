@@ -2,12 +2,21 @@
 Une solution serait de permettre aux utilisateurs de ces plateformes de pouvoir éditer le menu des sous-titres. La prise en charge des formats numériques des fichiers de sous-titres est potentiellement effective sur ces plateformes qui gérent déjà de nombreuses typographies 
 
 
+* Chaire ITEN Unesco - Université Paris 8 (programme CréaTIC) - Sisygambis
 * Sous Titrage pour le Web
 * Players Video HTML 5
 * Codification des langues
 * Exemple de Mayotte
 * Codage des sous-titres en Shimaoré et en Kibushi
-* Problématique de YouTube et de Vimeo  
+* Problématique de YouTube et de Vimeo 
+* Crédits
+
+### Chaire ITEN Unesco - Université Paris 8 (programme CréaTIC) - Sisygambis  
+
+La Chaire ITEN Unesco, L'université Paris 8 (programme CréaTIC) et l'association « Les 7 Portes-Sisygambis » ont signé le 19 janvier 2016 une convention de partenariat n°2015-0472 en vue de la réalisation du projet « Les Routes de la Transe ».  composé d'un web documentaire sous forme de carnet de voyage, complété par une plateforme collaborative multilingue expérimentale, regroupant le projet « Métissages artistiques et modernité. De la Méditerranée à l'Océan Indien » et ses futurs développements.  
+
+Une plateforme multilingue intégrant les langues rares parlées dans les Comores et notamment à Mayotte : Shimaore et Kibushi est en cours d'élaboration en vue d'en faire un démonstrateur destiné à être accessible aux partenaires locaux :  pôle culturel du CFUR, association Shime, musée de Mayotte, acteurs socio-culturels, etc.. Le sous-titrage des vidéos produites par Sisygambis en Shimaore et Kibushi fait également l'objet d'une étude pour doter les traducteurs locaux d'une application spéciale facilitant leur travail.
+
 
 ### Sous Titrage pour le Web
 
@@ -90,4 +99,9 @@ https://vimeo.com/191857029
 L’idéal serait que nous puissions administrer en tant que publicateur vidéo sur ces 2 plateformes, le menu des sous-titres. Du point de vue de la prise en charge des fichiers sous-titres et des caractères, il ne devrait pas y avoir de problème car ces plateformes traitent déjà la plupart des encodages Unicode pour les sous-titres déjà supportés.
 
 
-
+### Crédit  
+Crédit vidéo :  
+Le Deba de Bouéni, Madarassati MADANIA  
+auteur : les 7 Portes-Sisygambis (Christine Coulange)  
+http://www.7portes.net/blog/  
+Mayotte, 2016, 
